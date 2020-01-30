@@ -1,6 +1,3 @@
-# hello-world
-My first repository on GitHub
-
 ## HelloTeddy
 
 ### App Description
