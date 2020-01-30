@@ -3,7 +3,7 @@
 ### App Description
 A simple Android app that will perform the Required and Optional User Stories.
 
-### App Walk-though
+### App Walk-through
 
 <img src="GIF Walkthrough1.gif" width=200><br>
 
