@@ -1,13 +1,12 @@
 # hello-world
 My first repository on GitHub
 
-## NAME_OF_YOUR_APP_HERE
+## HelloTeddy
 
 ### App Description
-`TODO://` Add app description
+A simple Android app that will perform the Required and Optional User Stories.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="GIF Walkthrough1.gif" width=200><br>
 
